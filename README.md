@@ -147,11 +147,29 @@ Copy code
 
 
  📥 Book Ticket 
+
+ <img width="478" height="384" alt="Screenshot 2025-11-20 133759" src="https://github.com/user-attachments/assets/bd15c671-9727-4ea1-8496-13c4ad7822d7" />
+
  📋 View Bookings
+
+ <img width="454" height="509" alt="Screenshot 2025-11-20 133811" src="https://github.com/user-attachments/assets/ac840517-93dd-41e7-9bc4-59fa0b0f4227" />
+
  🔍 Search Booking
+
+ <img width="538" height="281" alt="Screenshot 2025-11-20 133823" src="https://github.com/user-attachments/assets/3f2fa452-34f2-4db2-9cdd-a49f51598af5" />
+
  ✏️ Update Booking 
+
+ <img width="587" height="737" alt="Screenshot 2025-11-20 133912" src="https://github.com/user-attachments/assets/16d1325d-4ea4-4d4c-865f-369e5bf8be66" />
+
  ❌ Delete Booking 
+
+ <img width="420" height="256" alt="Screenshot 2025-11-20 133927" src="https://github.com/user-attachments/assets/83c26681-649a-4344-934d-ea600ca04782" />
+
  🚪 Exit Program 
+
+ <img width="519" height="219" alt="Screenshot 2025-11-20 133939" src="https://github.com/user-attachments/assets/3e639f99-35ab-42e0-856a-218f93ae4c34" />
+
 
 
 
